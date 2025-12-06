@@ -1,0 +1,6 @@
+.env
+node_modules/
+.next/
+contract/ticket_box/build/
+contract/ticket_box/Move.lock
+prompts/
