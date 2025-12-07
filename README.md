@@ -13,7 +13,12 @@ npm run ticket:deploy
 
 # Start development server
 npm run dev
+
+# Start verifier UI on a separate port/tab
+npm run dev:verifier
 ```
+
+Open http://localhost:3001/verifier in a separate tab to validate buy-ticket digests while the main dApp (create/buy/use) can stay on http://localhost:3000.
 
 ## 📚 Documentation
 
@@ -25,6 +30,7 @@ For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)*
 - ✅ Move smart contract (ticket_box) integration
 - ✅ TypeScript + Next.js App Router
 - ✅ Basic UI for create box / buy ticket / mark used
+- ✅ Transaction verifier page (`/verifier`) to check buy-ticket digests on a dedicated port
 - ✅ Script alias `npm run ticket:deploy` (wrapper over create-iota-dapp)
 
 ## 📁 Project Structure

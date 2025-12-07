@@ -6,6 +6,7 @@
   "main": "app/integration.tsx",
   "scripts": {
     "dev": "next dev",
+    "dev:verifier": "next dev -p 3001",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
