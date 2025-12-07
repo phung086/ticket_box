@@ -58,4 +58,4 @@ For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)*
 
 ## 📄 License
 
-MIT
+Link Status LinkedIn: https://www.linkedin.com/posts/pham-dinh-hung-5253a53a0_productive-morning-at-the-build-on-iota-workshop-activity-7403309657013878784-VJdk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGJNMq0BmnBdxHDEtKVWDX8b3nU5EiUO4Qw
