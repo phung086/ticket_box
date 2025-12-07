@@ -9,7 +9,7 @@ import { createNetworkConfig } from "@iota/dapp-kit";
 
 // Package IDs - update DEVNET_PACKAGE_ID after deploying ticket_box
 export const DEVNET_PACKAGE_ID = "0xdaed73e0337b1e040c4a0c6e10b13f517e0d910b15a75d3202645ceaaf4e6adf";
-export const TESTNET_PACKAGE_ID = "";
+export const TESTNET_PACKAGE_ID = "0x7b876fea5417cb4b08b485a7f21e8bd984b746da04dfb93c72eefc3d5ab5e50e";
 export const MAINNET_PACKAGE_ID = "";
 
 // Network configuration
