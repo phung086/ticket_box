@@ -56,6 +56,6 @@ For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)*
 - Testnet: `0x7b876fea5417cb4b08b485a7f21e8bd984b746da04dfb93c72eefc3d5ab5e50e`
 - Wallet: `0x6dcbbc31d4db7a3169714d55a917a7e5e429c81016987e7fd12b6c34a2416fda`
 
-## 📄 License
+## 📄 License MIT
 
 Link Status LinkedIn: https://www.linkedin.com/posts/pham-dinh-hung-5253a53a0_productive-morning-at-the-build-on-iota-workshop-activity-7403309657013878784-VJdk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGJNMq0BmnBdxHDEtKVWDX8b3nU5EiUO4Qw
