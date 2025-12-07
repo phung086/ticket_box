@@ -54,6 +54,7 @@ For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)*
 
 - Devnet: `0xdaed73e0337b1e040c4a0c6e10b13f517e0d910b15a75d3202645ceaaf4e6adf`
 - Testnet: `0x7b876fea5417cb4b08b485a7f21e8bd984b746da04dfb93c72eefc3d5ab5e50e`
+- Wallet: `0x6dcbbc31d4db7a3169714d55a917a7e5e429c81016987e7fd12b6c34a2416fda`
 
 ## 📄 License
 
